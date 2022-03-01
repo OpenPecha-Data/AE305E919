@@ -1,0 +1,18 @@
+segment_sources:
+  P818FF122:
+    type: origin_type
+    relation: translation
+    language: sa
+  P6F64677F:
+    type: origin_type
+    relation: translation
+    language: zh
+  P91B41043:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  48a6ab6c2eb1412babbcbcad5ad85ee3:
+    P818FF122: f6503351a9af464999b7f26e9da3b404
+    P6F64677F: ce1ad49767ec429d9a0b4f41064fd1dc
+    P91B41043: c600600f1e734da6a60267de23c63f95
